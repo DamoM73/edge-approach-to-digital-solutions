@@ -1,4 +1,0 @@
-dependencies:
-    - pip
-    - pip:
-      - jupyterlab_latex
